@@ -1,0 +1,3 @@
+pve_host = "HOSTNAME"
+pve_token_id = "TOKEN_ID"
+pve_token_secret = "TOKEN_SECRET"
