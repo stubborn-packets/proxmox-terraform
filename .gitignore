@@ -1,0 +1,29 @@
+# Ignore Terraform Secrets files
+*.tfvars
+*.secrets.tfvars
+*.tfvars.json
+
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+*.tfstate.index
+
+# Ignore Terraform lock files
+terraform.tflock
+.terraform.lock.hcl
+
+# Ignore Terraform metadata files
+terraform.tfmeta
+
+# Ignore Terraform plan files
+terraform.plan
+
+# Ignore Terraform output files
+terraform.out
+
+# Ignore Terraform work files
+terraform.work
+
+# Ignore Terraform Providers and Modules
+providers/
+modules/
