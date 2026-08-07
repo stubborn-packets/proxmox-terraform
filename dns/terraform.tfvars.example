@@ -1,0 +1,2 @@
+pve_host = "HOSTNAME"
+pve_api_token = "user@realm!tokenid=your-secret-here"
